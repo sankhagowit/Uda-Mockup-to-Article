@@ -1,9 +1,31 @@
-You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+You've learned a lot about web development so far. I want you to take a moment
+to write down your thoughts about web development here. Answer the following
+questions:
   * What new skills have you learned?
   * What has been easy?
   * What has been difficult?
-  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  * How have you used the problem solving strategies from the first project to
+    overcome challenges so far?
 
 ---
 
-Your response goes here!
+I have taken a couple (including a udacity) HTML and CSS classes online
+before. A lot of the material we have covered so far has been a review of
+HTML basics. This time I have learned about and how to use the Motzilla
+developer network and atom, the current text editor I am using (I much prefer
+it to sublime). I have also learned about importance of the correct !DOCTYPE
+AND the various rendering modes and history.
+
+Most of this part has been easy. I am excited to get to the more involved projects
+The coding thus far has been mostly review and we have yet to get to
+so explicitly I have found refreshing myself on HTML syntax and the concept of
+parent child relationship to be easy.
+
+It has been difficult to stay engaged in the exercises of, "demonstrate you
+can type all of the headers". There has also been some difficulty switching
+to atom from sublime... I have yet to figure out how to autocomplete suggested
+HTML elements (I shall google soon).
+
+Thus far I have not ran into many problems. I am however constantly reminding
+myself that I am looking forward to gaining new knowledge and a refresher
+of the basics is the foundation the rest of the course will be built upon. 
